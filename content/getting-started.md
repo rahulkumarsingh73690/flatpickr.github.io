@@ -20,7 +20,7 @@ npm i flatpickr --save
 
 ### Non-module environments
 
-If, for any reason, you are constained to a non-module environment (e.g. no bundlers such as webpack) - don't fret. I suggest simply pulling the latest version of `flatpickr` from `jsdelivr`.
+If, for any reason, you are constained to a non-module environment (e.g. no bundlers such as webpack) - don't fret. I suggest simply pulling the latest version of `flatpickr` from `jsdelivr`. Try on realtime HTML [playground](https://goonlinetools.com/realtime-html-editor/#8axeodabqbpw4dw3xnx8fe)
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
